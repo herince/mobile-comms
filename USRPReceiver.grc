@@ -153,7 +153,7 @@ blocks:
     bits_per_sample3: FORMAT_VORBIS
     bits_per_sample4: FORMAT_PCM_16
     comment: ''
-    file: /home/ralitsa/akik/dsp/fm_record.wav
+    file: fm_record.wav
     format: FORMAT_WAV
     nchan: '1'
     samp_rate: '500000'
@@ -683,7 +683,7 @@ blocks:
     center_freq8: '0'
     center_freq9: '0'
     clock_rate: 0e0
-    clock_source0: gpsdo
+    clock_source0: ''
     clock_source1: ''
     clock_source2: ''
     clock_source3: ''
@@ -1016,7 +1016,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [72, 212.0]
+    coordinate: [80, 244.0]
     rotation: 0
     state: enabled
 
